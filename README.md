@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahad0&label=Profile%20views&color=0e75b6&style=flat" alt="sahad0" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+ 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+ 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-sahad0.vercel.app/](https://portfolio-sahad0.vercel.app/)
+ 👨‍💻 All of my projects are available at [https://portfolio-sahad0.vercel.app/](https://portfolio-sahad0.vercel.app/)
 
-- 📫 How to reach me **sahadwg@gmail.com**
+ 📫 How to reach me **sahadwg@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAExhHDyvgA/bokXxxpQMZWc0OK0kfHjhQ/view?utm_content=DAExhHDyvgA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAExhHDyvgA/bokXxxpQMZWc0OK0kfHjhQ/view?utm_content=DAExhHDyvgA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+ 📄 Know about my experiences [https://www.canva.com/design/DAExhHDyvgA/bokXxxpQMZWc0OK0kfHjhQ/view?utm_content=DAExhHDyvgA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAExhHDyvgA/bokXxxpQMZWc0OK0kfHjhQ/view?utm_content=DAExhHDyvgA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
