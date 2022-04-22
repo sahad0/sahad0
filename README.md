@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahad0&label=Profile%20views&color=0e75b6&style=flat" alt="sahad0" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
@@ -30,7 +30,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sahad0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sahad0" /></a><a href="https://ko-fi.com/sahad0"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sahad0" /></a></p>
-
+<br><br>
 
 ### Badges
 
