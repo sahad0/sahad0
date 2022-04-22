@@ -31,7 +31,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sahad0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sahad0" /></a><a href="https://ko-fi.com/sahad0"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sahad0" /></a></p><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahad0&show_icons=true&locale=en&layout=compact" alt="sahad0" /></p>
+<p>
+  </br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahad0&show_icons=true&locale=en&layout=compact" alt="sahad0" /></p>
 
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=sahad0&show_icons=true&locale=en" alt="sahad0" /></p>
 
