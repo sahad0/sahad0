@@ -5,8 +5,6 @@
 
  👯 I’m looking to collaborate on **Web/Mobile Development Projects**
 
- 👨‍💻 All of my projects are available at [https://portfolio-sahad0.vercel.app/](https://portfolio-sahad0.vercel.app/)
-
  📫 How to reach me **sahadwg@gmail.com**
 
  📄 Know about my experiences [https://www.canva.com/design/DAExhHDyvgA/bokXxxpQMZWc0OK0kfHjhQ/view?utm_content=DAExhHDyvgA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAExhHDyvgA/bokXxxpQMZWc0OK0kfHjhQ/view?utm_content=DAExhHDyvgA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
