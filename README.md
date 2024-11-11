@@ -2,9 +2,6 @@
 
 ----
 
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-
-
 
 **React Native Development Engineer** &#12299;_working in Cross Platform mobile application, Animation & Gestures
 <br/>
