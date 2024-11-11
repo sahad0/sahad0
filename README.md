@@ -3,7 +3,6 @@
 ----
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![react](https://github.com/user-attachments/assets/66e4e14e-1a59-4013-90bb-b95ed57c2b96)
 
 
 
