@@ -9,7 +9,7 @@
 
 ----
 
-<a href="[www.linkedin.com/in/sahad0](https://www.linkedin.com/in/sahad0/)">
+<a href="https://www.linkedin.com/in/sahad0/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Sahad LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
