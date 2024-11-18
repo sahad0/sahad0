@@ -1,4 +1,4 @@
-### Hi, I'm Sahad! &nbsp;&nbsp;<sup>👾 &#12299;I build for mobile platforms. I test my code, play music & games. Occasionally, I sing.</sup>
+### Hi, I'm Sahad! &nbsp;&nbsp;<sup>👾 &#12299;I build for mobile platforms. I test my code, play music & games. Occasionally, I sing in private.</sup>
 
 ----
 
