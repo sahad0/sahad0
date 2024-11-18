@@ -9,9 +9,6 @@
 
 ----
 
-<a href="https://www.instagram.com/moer.tel/">
-  <img align="left" alt="Sahad Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
 <a href="www.linkedin.com/in/sahad0">
   <img align="left" alt="Sahad LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
