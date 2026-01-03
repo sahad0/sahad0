@@ -13,6 +13,6 @@
   <img align="left" alt="Sahad LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website & Gallery : https://www.sahad-mohd.site &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
+| Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
 
 
